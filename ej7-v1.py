@@ -1,5 +1,5 @@
 # Practica 1
-# Ejercicio 7
+# Ejercicio
 # Escriba un programa que compare dos números y diga cual de los dos es el mayor.
 
 numero1=2
